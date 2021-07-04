@@ -1,25 +1,17 @@
-GameKiller Multitool 3.6 changelog:
+GameKiller Multitool 3.7 mini Update changelog:
 
-DiscordRPC Dll will now be hidden after first start
-
-Fixed SSL-Pin error
-
-Fixed Linkvertise Bypass
-
-Fixed all knowen crashes
-
-Fixed running in background
-
-Fixed all 404 errors
+Changed Login/Register System
 
 Changed Discord-RPC
 
-Minor gui adjustments
+Login gui adjustments
 
-Improved performance
+Updated Astro
+
+Fixed a few bugs
+
+[+] Added DC-Webhook-Tester
+
+[+] Added Login-Save
 
 [+] Added new Bypass API
-
-[-] Removed old Linkvertise API
-
-[-] Removed 2. Create Button for Discord Crashvideos
