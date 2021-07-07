@@ -1,17 +1,31 @@
-GameKiller Multitool 3.7 mini Update changelog:
+GameKiller Multitool 4.0 changelog:
 
-Changed Login/Register System
+Changed whole Login GUI
 
-Changed Discord-RPC
+Fixed 404 and 403 Errors
 
-Login gui adjustments
+Fixed Crash when bypassing a lot of Links in a row
 
-Updated Astro
+Fixed weird home-button bug
 
-Fixed a few bugs
+Fixed Shortcut error
 
-[+] Added DC-Webhook-Tester
+Fixed off cut buttons
 
-[+] Added Login-Save
+Improved Performence
 
-[+] Added new Bypass API
+Improved auto save
+
+[+]  Added Generate new Steam Account to misc tab
+
+[+]  Added new 3. Linkvertise API for fast Bypass
+
+[+]  Added Window Minimize Button
+
+[+]  Added Qr-Code Generator
+
+[+]  Added Team-Member tab
+
+[+]  Added Login via Key only feature
+
+[-]  Removed Junk-Code
