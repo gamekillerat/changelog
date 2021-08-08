@@ -1,31 +1,26 @@
-GameKiller Multitool 4.0 changelog:
+GameKiller Multitool 4.1 changelog:
 
-Changed whole Login GUI
+Fixed Discord Crash Video bug
 
-Fixed 404 and 403 Errors
+Fixed a few crashes
 
-Fixed Crash when bypassing a lot of Links in a row
+Fixed Bypasser and web api
 
-Fixed weird home-button bug
+Fixed Discord-RPC Bug
 
-Fixed Shortcut error
+Changed and improved bypass api
 
-Fixed off cut buttons
 
-Improved Performence
+[+]  Added Remove Watermark
 
-Improved auto save
+[+]  Added Save-Login Checkbox
 
-[+]  Added Generate new Steam Account to misc tab
+[+] Added Upgrade Option
 
-[+]  Added new 3. Linkvertise API for fast Bypass
+[+]  Url Shortner
 
-[+]  Added Window Minimize Button
+[+-] Re-Added Level-System
 
-[+]  Added Qr-Code Generator
+[-] Removed Colors from Buttons
 
-[+]  Added Team-Member tab
-
-[+]  Added Login via Key only feature
-
-[-]  Removed Junk-Code
+[-] Removed Port-Scanner
