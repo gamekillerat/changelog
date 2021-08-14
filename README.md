@@ -9,8 +9,6 @@ Fixed Running in background bug
 Fixed many other bugs
 Fixed broken buttons
 Currently disabled Update all Files Button
-
-
 Updated Librarys
 
 Misc Tab
