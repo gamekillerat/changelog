@@ -22,7 +22,7 @@ Network Tab:
 [-]  Removed Port Scanner (because it was broken)
 
 CS:GO Tab:
-CSGO PID is now being updated autocratic
+CSGO PID is now being updated automatically
 Fully Recoded Autoinjector
 [+]  Added Average Config Folder
 [-]  Removed GameKiller-Injector
