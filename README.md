@@ -11,6 +11,9 @@ Fixed broken buttons
 Currently disabled Update all Files Button
 Updated Librarys
 
+[+] Added ISO-Download Tab
+[+] Added another 2 Linkvertise Bypass APIs
+
 Misc Tab
 [+] Added Disable Windows Defender Feature
 [+] Added Text to Audio File Feature
